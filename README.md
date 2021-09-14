@@ -12,7 +12,7 @@ See how fast new trend is detected
 
 # ML training
 
-Step 1 : Take a sample of transaction and train the system with a single scenario
+* Step 1 : Take a sample of transaction and train the system with a single scenario
 Step 2 : List each different items and define a correlation coef with is fraud
 
 
