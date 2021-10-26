@@ -1,4 +1,4 @@
-# project_fraud_prevention_sytem
+# Project fraud prevention sytem
 
 This project was created during the Data Science course by General Assembly that I followed Q2 & Q3 2021.
 
